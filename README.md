@@ -1,4 +1,4 @@
-# Wisdam Pharma
+# Padipharmacist
 
 A modern, responsive pharmacy website built with Next.js 14, TypeScript, and Tailwind CSS.
 

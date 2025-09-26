@@ -12,7 +12,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Wisdam Pharma - Your Trusted Healthcare Partner",
+  title: "Padipharmacist - Your Trusted Healthcare Partner",
   description:
     "Professional pharmaceutical services, prescription medications, health consultations, and wellness products. Your health is our priority.",
   generator: "v0.app",
